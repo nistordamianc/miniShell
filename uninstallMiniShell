@@ -1,0 +1,4 @@
+#!/bin/bash
+make clean
+rm Makefile README.md run.c shell.c uninstallMiniShell
+echo Successfully uninstalled "miniShell".
